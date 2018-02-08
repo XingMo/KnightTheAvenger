@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d2e564b8-ce0c-41e8-afa7-bf3b64daefdd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "chef-coréen": {
+      "ver": "1.0.3",
+      "uuid": "04cc7043-16e2-482c-9840-955737576c70",
+      "rawTextureUuid": "d2e564b8-ce0c-41e8-afa7-bf3b64daefdd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -1,
+      "trimX": 4,
+      "trimY": 2,
+      "width": 72,
+      "height": 100,
+      "rawWidth": 78,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b648e028-4ddd-4087-9770-9dbe8d3ef04d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fille et monstre": {
+      "ver": "1.0.3",
+      "uuid": "c8307428-7809-4d69-9b61-f539c0dfae5f",
+      "rawTextureUuid": "b648e028-4ddd-4087-9770-9dbe8d3ef04d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 0.5,
+      "trimX": 3,
+      "trimY": 4,
+      "width": 75,
+      "height": 91,
+      "rawWidth": 85,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

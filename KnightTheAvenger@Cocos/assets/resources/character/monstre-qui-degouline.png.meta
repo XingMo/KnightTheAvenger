@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f00f72e6-6082-4307-980f-2a2596c733f4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "monstre-qui-degouline": {
+      "ver": "1.0.3",
+      "uuid": "b5e44ecf-65c9-4e2d-9a3a-4dfc52af55f7",
+      "rawTextureUuid": "f00f72e6-6082-4307-980f-2a2596c733f4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 76,
+      "height": 104,
+      "rawWidth": 78,
+      "rawHeight": 106,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

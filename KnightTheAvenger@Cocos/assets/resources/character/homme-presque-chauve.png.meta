@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "44e10b70-f4f7-4ba1-803b-4ca0f585cc59",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "homme-presque-chauve": {
+      "ver": "1.0.3",
+      "uuid": "bb1e9639-81b8-4dd1-a122-e5d0f156572f",
+      "rawTextureUuid": "44e10b70-f4f7-4ba1-803b-4ca0f585cc59",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 45,
+      "height": 87,
+      "rawWidth": 47,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

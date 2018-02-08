@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9ec2e781-fbeb-48b0-9728-332662c93236",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fille-chat-lune": {
+      "ver": "1.0.3",
+      "uuid": "aff845c6-7411-410c-b406-8cc11b4873b8",
+      "rawTextureUuid": "9ec2e781-fbeb-48b0-9728-332662c93236",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1,
+      "trimX": 3,
+      "trimY": 6,
+      "width": 98,
+      "height": 123,
+      "rawWidth": 103,
+      "rawHeight": 133,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

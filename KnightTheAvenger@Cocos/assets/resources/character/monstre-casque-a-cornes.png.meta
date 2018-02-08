@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6ff042ea-6be4-4e63-a8bd-e4c14c5c6608",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "monstre-casque-a-cornes": {
+      "ver": "1.0.3",
+      "uuid": "111a01fb-d20d-4e8f-9f8a-51728dd0b7e5",
+      "rawTextureUuid": "6ff042ea-6be4-4e63-a8bd-e4c14c5c6608",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 49,
+      "height": 93,
+      "rawWidth": 51,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

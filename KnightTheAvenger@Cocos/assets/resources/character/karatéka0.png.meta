@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4df7b997-dfde-4add-a283-a79fded9efd8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "karatéka0": {
+      "ver": "1.0.3",
+      "uuid": "2fb9fc48-5586-4380-bf05-b9624cf229b7",
+      "rawTextureUuid": "4df7b997-dfde-4add-a283-a79fded9efd8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 32,
+      "height": 76,
+      "rawWidth": 34,
+      "rawHeight": 78,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

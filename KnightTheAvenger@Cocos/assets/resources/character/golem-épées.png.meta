@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "57376bf0-492d-4db4-b1f9-0d7680925117",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "golem-épées": {
+      "ver": "1.0.3",
+      "uuid": "b97accbf-dc2b-4590-b66c-269a7a884132",
+      "rawTextureUuid": "57376bf0-492d-4db4-b1f9-0d7680925117",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": -0.5,
+      "trimX": 6,
+      "trimY": 5,
+      "width": 122,
+      "height": 191,
+      "rawWidth": 137,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

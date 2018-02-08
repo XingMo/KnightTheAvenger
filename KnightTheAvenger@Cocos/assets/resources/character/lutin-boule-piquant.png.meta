@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "87089960-d972-4f97-a755-94e3ecf67302",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "lutin-boule-piquant": {
+      "ver": "1.0.3",
+      "uuid": "1dc73f79-24ed-463c-bc41-e42e7019000b",
+      "rawTextureUuid": "87089960-d972-4f97-a755-94e3ecf67302",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 2,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 54,
+      "height": 58,
+      "rawWidth": 62,
+      "rawHeight": 68,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

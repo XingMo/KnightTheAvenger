@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b4370b90-5faa-40e5-b511-7532bcb46407",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "cheveux-rose": {
+      "ver": "1.0.3",
+      "uuid": "3056fd84-bdb4-46ba-b838-5c5fe2bd8ef8",
+      "rawTextureUuid": "b4370b90-5faa-40e5-b511-7532bcb46407",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 1,
+      "trimX": 4,
+      "trimY": 5,
+      "width": 44,
+      "height": 88,
+      "rawWidth": 55,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

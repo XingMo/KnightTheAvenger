@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b0335ea4-8075-4491-9241-4bc8dfa9c482",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "capitaine-jambe-bois": {
+      "ver": "1.0.3",
+      "uuid": "a459bfc7-4e1b-4d0d-a8e6-e4080a01a2f8",
+      "rawTextureUuid": "b0335ea4-8075-4491-9241-4bc8dfa9c482",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 60,
+      "height": 116,
+      "rawWidth": 60,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

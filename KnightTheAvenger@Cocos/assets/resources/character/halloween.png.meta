@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5b96e99e-c406-47da-8a5c-5dbfe759db3f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "halloween": {
+      "ver": "1.0.3",
+      "uuid": "c017254c-cd90-4758-a6d3-d2b19933ce1a",
+      "rawTextureUuid": "5b96e99e-c406-47da-8a5c-5dbfe759db3f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -1.5,
+      "trimX": 19,
+      "trimY": 8,
+      "width": 46,
+      "height": 82,
+      "rawWidth": 85,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4ebaeba7-1bc0-42d6-ac55-846c4a269d6a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fille-robe-ange": {
+      "ver": "1.0.3",
+      "uuid": "631c0c06-4f44-4623-a1c9-86bb378e088e",
+      "rawTextureUuid": "4ebaeba7-1bc0-42d6-ac55-846c4a269d6a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -8,
+      "trimX": 0,
+      "trimY": 16,
+      "width": 95,
+      "height": 95,
+      "rawWidth": 95,
+      "rawHeight": 111,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

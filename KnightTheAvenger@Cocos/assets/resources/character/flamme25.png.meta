@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5569fa75-1bac-41eb-b77b-5a5e201f096e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "flamme25": {
+      "ver": "1.0.3",
+      "uuid": "868f5361-c447-46b0-9e00-4f8b40a0ca6f",
+      "rawTextureUuid": "5569fa75-1bac-41eb-b77b-5a5e201f096e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 19,
+      "trimY": 14,
+      "width": 13,
+      "height": 27,
+      "rawWidth": 52,
+      "rawHeight": 55,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

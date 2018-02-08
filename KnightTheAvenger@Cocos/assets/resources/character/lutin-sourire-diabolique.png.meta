@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "89ccc500-dcf1-46c8-84b8-8e6cda9d575b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "lutin-sourire-diabolique": {
+      "ver": "1.0.3",
+      "uuid": "ce877ed6-4cac-4104-92dc-605dab549188",
+      "rawTextureUuid": "89ccc500-dcf1-46c8-84b8-8e6cda9d575b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 3,
+      "trimX": 12,
+      "trimY": 4,
+      "width": 53,
+      "height": 77,
+      "rawWidth": 76,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

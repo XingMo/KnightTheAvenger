@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ae85cc9e-fc2b-408c-ba03-8eb2d5e28705",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mage-cheveux-bleu": {
+      "ver": "1.0.3",
+      "uuid": "320b3226-7481-4390-b395-676828328741",
+      "rawTextureUuid": "ae85cc9e-fc2b-408c-ba03-8eb2d5e28705",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -9,
+      "offsetY": -3.5,
+      "trimX": 13,
+      "trimY": 9,
+      "width": 56,
+      "height": 89,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

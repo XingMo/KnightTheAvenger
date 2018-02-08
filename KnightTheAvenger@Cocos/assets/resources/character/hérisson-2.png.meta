@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "77f121d0-4b21-43df-b579-37cb77072cc1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "hérisson-2": {
+      "ver": "1.0.3",
+      "uuid": "778d08bd-e09f-44cb-b06d-d23ff6bee776",
+      "rawTextureUuid": "77f121d0-4b21-43df-b579-37cb77072cc1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": 2.5,
+      "trimX": 7,
+      "trimY": 15,
+      "width": 42,
+      "height": 27,
+      "rawWidth": 64,
+      "rawHeight": 62,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

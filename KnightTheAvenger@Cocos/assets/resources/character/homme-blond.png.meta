@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1cf6b894-3eea-44c1-9cc1-70c25051ddba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "homme-blond": {
+      "ver": "1.0.3",
+      "uuid": "061ce6f9-0b20-44be-aa7a-3871bc020b28",
+      "rawTextureUuid": "1cf6b894-3eea-44c1-9cc1-70c25051ddba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 35,
+      "height": 91,
+      "rawWidth": 50,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

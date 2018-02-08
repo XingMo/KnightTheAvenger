@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7f7ac99e-64fa-4975-838a-f157c987e17b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mort et canne": {
+      "ver": "1.0.3",
+      "uuid": "f9658989-8ec2-4c32-8fb1-c5448635f5b1",
+      "rawTextureUuid": "7f7ac99e-64fa-4975-838a-f157c987e17b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1,
+      "trimX": 3,
+      "trimY": 4,
+      "width": 92,
+      "height": 103,
+      "rawWidth": 100,
+      "rawHeight": 113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

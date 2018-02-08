@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "aaa58654-8893-42d1-8c9b-1b37969e4193",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mageanimal": {
+      "ver": "1.0.3",
+      "uuid": "b77085b1-1dca-4d51-9869-13fae0c47c3e",
+      "rawTextureUuid": "aaa58654-8893-42d1-8c9b-1b37969e4193",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 0.5,
+      "trimX": 10,
+      "trimY": 3,
+      "width": 28,
+      "height": 88,
+      "rawWidth": 45,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

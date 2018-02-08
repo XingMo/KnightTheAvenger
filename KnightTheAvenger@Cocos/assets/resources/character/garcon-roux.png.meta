@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d93270d9-553d-4935-84c4-52fa74b80012",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "garcon-roux": {
+      "ver": "1.0.3",
+      "uuid": "40947cab-fa6c-487d-a1c5-de802be2bd56",
+      "rawTextureUuid": "d93270d9-553d-4935-84c4-52fa74b80012",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 3,
+      "trimX": 3,
+      "trimY": 4,
+      "width": 49,
+      "height": 39,
+      "rawWidth": 57,
+      "rawHeight": 53,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

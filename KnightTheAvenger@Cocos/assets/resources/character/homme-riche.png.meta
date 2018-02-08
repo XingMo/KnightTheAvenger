@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "518bb8cd-4fc1-40e4-aa96-38f129996459",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "homme-riche": {
+      "ver": "1.0.3",
+      "uuid": "349dfc6e-4228-42d8-b29f-202793fa0bfa",
+      "rawTextureUuid": "518bb8cd-4fc1-40e4-aa96-38f129996459",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 0.5,
+      "trimX": 3,
+      "trimY": 1,
+      "width": 51,
+      "height": 94,
+      "rawWidth": 60,
+      "rawHeight": 97,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

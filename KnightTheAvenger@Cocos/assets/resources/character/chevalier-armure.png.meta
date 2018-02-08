@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bd8722dc-31db-4772-a32c-d2b597ef50f0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "chevalier-armure": {
+      "ver": "1.0.3",
+      "uuid": "71d200ce-8863-46b1-ad47-d04396ce8d0f",
+      "rawTextureUuid": "bd8722dc-31db-4772-a32c-d2b597ef50f0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 53,
+      "height": 89,
+      "rawWidth": 61,
+      "rawHeight": 93,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

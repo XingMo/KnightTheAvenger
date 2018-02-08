@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6267a24c-32b1-470b-a89d-8ad170f9240a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "chef-chine2": {
+      "ver": "1.0.3",
+      "uuid": "92fab83d-86ee-470f-a4f1-9e878c6174ee",
+      "rawTextureUuid": "6267a24c-32b1-470b-a89d-8ad170f9240a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 2,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 33,
+      "height": 90,
+      "rawWidth": 40,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

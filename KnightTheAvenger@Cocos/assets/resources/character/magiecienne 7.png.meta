@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9683bb42-b56d-474f-a522-d68da86a400d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "magiecienne 7": {
+      "ver": "1.0.3",
+      "uuid": "ec4a37b4-8efb-4676-89f5-c281ebe7f27f",
+      "rawTextureUuid": "9683bb42-b56d-474f-a522-d68da86a400d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 2,
+      "trimX": 10,
+      "trimY": 5,
+      "width": 45,
+      "height": 101,
+      "rawWidth": 65,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

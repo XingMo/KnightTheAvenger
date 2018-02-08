@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "934c2607-8827-4896-998c-d33553ef576f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "monstre-lance": {
+      "ver": "1.0.3",
+      "uuid": "fa6e9726-c965-480d-8d29-bec9d21330c6",
+      "rawTextureUuid": "934c2607-8827-4896-998c-d33553ef576f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 89,
+      "height": 84,
+      "rawWidth": 89,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

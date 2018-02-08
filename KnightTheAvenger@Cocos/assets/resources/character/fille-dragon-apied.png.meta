@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "92416bba-a030-4f0f-973f-322d9ed26a0f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fille-dragon-apied": {
+      "ver": "1.0.3",
+      "uuid": "15800c23-3cd0-4395-ad69-dace5221c873",
+      "rawTextureUuid": "92416bba-a030-4f0f-973f-322d9ed26a0f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 76,
+      "height": 117,
+      "rawWidth": 78,
+      "rawHeight": 119,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

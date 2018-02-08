@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "28f85e86-d040-4599-8d55-f5ff584c85fc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mechant-loup": {
+      "ver": "1.0.3",
+      "uuid": "5c82c5a8-fd87-4137-be02-923e4c5fc82f",
+      "rawTextureUuid": "28f85e86-d040-4599-8d55-f5ff584c85fc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 65,
+      "height": 59,
+      "rawWidth": 67,
+      "rawHeight": 61,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

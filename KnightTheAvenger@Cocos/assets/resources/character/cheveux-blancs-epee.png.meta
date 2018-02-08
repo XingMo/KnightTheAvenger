@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d6401197-21a0-4215-8e54-0f9cdc8d645d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "cheveux-blancs-epee": {
+      "ver": "1.0.3",
+      "uuid": "9c49136f-17d3-49c4-9394-fcbf6e1960a8",
+      "rawTextureUuid": "d6401197-21a0-4215-8e54-0f9cdc8d645d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": -0.5,
+      "trimX": 10,
+      "trimY": 4,
+      "width": 45,
+      "height": 93,
+      "rawWidth": 75,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

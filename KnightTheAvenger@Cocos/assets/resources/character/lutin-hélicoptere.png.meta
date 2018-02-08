@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a9e687c5-9485-489f-a30c-342b6799cdc3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "lutin-hélicoptere": {
+      "ver": "1.0.3",
+      "uuid": "8c8c61b1-970f-4db2-ac08-74f013ae2b51",
+      "rawTextureUuid": "a9e687c5-9485-489f-a30c-342b6799cdc3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": -6.5,
+      "trimX": 16,
+      "trimY": 23,
+      "width": 104,
+      "height": 89,
+      "rawWidth": 131,
+      "rawHeight": 122,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

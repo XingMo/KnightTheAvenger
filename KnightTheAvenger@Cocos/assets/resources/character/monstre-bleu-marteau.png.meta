@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "53168138-d846-416f-a36e-b5ae00ffb22d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "monstre-bleu-marteau": {
+      "ver": "1.0.3",
+      "uuid": "29aa00c4-f238-461e-8e28-2b21665a9954",
+      "rawTextureUuid": "53168138-d846-416f-a36e-b5ae00ffb22d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0.5,
+      "trimX": 5,
+      "trimY": 2,
+      "width": 65,
+      "height": 96,
+      "rawWidth": 73,
+      "rawHeight": 101,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

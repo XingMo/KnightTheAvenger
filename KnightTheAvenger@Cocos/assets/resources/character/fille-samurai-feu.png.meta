@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "72a87c7a-c9f2-49ae-aa65-ed0d8e0f80b0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fille-samurai-feu": {
+      "ver": "1.0.3",
+      "uuid": "77cc78f1-6c91-42f1-986e-b6a8ac383655",
+      "rawTextureUuid": "72a87c7a-c9f2-49ae-aa65-ed0d8e0f80b0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 75,
+      "height": 113,
+      "rawWidth": 79,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

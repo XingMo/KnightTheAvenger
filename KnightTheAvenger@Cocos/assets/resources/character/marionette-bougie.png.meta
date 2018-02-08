@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "07c5fd8a-1ca8-4005-8a76-c009ac5e9b5e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "marionette-bougie": {
+      "ver": "1.0.3",
+      "uuid": "a05f1aee-40c6-42b4-ae7c-183cf5ad46f6",
+      "rawTextureUuid": "07c5fd8a-1ca8-4005-8a76-c009ac5e9b5e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": 1,
+      "trimX": 10,
+      "trimY": 2,
+      "width": 58,
+      "height": 89,
+      "rawWidth": 85,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

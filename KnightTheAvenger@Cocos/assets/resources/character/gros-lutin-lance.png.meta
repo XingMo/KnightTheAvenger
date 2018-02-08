@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "025294a7-3ebf-49b0-9a3a-be9462ff715e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "gros-lutin-lance": {
+      "ver": "1.0.3",
+      "uuid": "23416b70-9850-4345-a166-ca1402661f99",
+      "rawTextureUuid": "025294a7-3ebf-49b0-9a3a-be9462ff715e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 1,
+      "trimX": 4,
+      "trimY": 4,
+      "width": 73,
+      "height": 80,
+      "rawWidth": 82,
+      "rawHeight": 90,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+简单的编写一个类
+```java
+var InfoCharacter = require("InfoCharacter");
+
+cc.Class({
+    extends: cc.Component,
+
+    properties: {
+        var1: 0,
+        list1: [],
+        var2: {
+            default: null,
+            type: [cc.Node]
+        }
+	}
+	
+	onLoad() {}
+	start() {
+	    var self = this;
+	    this.var1 = 0;
+	    this.myFun();
+	}
+	update(dt) {}
+	
+	myFun()
+});
+```
+注意 `,` 和 `this` !

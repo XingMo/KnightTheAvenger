@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "215f9461-5a5c-46d0-b3e4-feb53fc22c40",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "loup-garou5": {
+      "ver": "1.0.3",
+      "uuid": "c3b795f6-e123-469f-815f-e3300558592f",
+      "rawTextureUuid": "215f9461-5a5c-46d0-b3e4-feb53fc22c40",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 7,
+      "offsetY": 0,
+      "trimX": 14,
+      "trimY": 0,
+      "width": 64,
+      "height": 109,
+      "rawWidth": 78,
+      "rawHeight": 109,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

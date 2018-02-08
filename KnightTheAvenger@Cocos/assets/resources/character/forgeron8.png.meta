@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9693b73b-ae97-4b91-bc20-1fdf5504ed9a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "forgeron8": {
+      "ver": "1.0.3",
+      "uuid": "228c0df3-ca15-4349-9ec9-8bbc4b1014e8",
+      "rawTextureUuid": "9693b73b-ae97-4b91-bc20-1fdf5504ed9a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 59,
+      "height": 118,
+      "rawWidth": 61,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

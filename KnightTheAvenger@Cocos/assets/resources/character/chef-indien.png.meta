@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1f14e437-f0fb-41df-9b1c-c1333a8de535",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "chef-indien": {
+      "ver": "1.0.3",
+      "uuid": "c9f13baa-1b51-47a3-8661-68cc33146b81",
+      "rawTextureUuid": "1f14e437-f0fb-41df-9b1c-c1333a8de535",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 57,
+      "height": 74,
+      "rawWidth": 59,
+      "rawHeight": 76,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

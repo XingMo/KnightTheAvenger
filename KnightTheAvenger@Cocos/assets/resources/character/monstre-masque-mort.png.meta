@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e5b4248f-c99f-44a9-8b45-83665371918d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "monstre-masque-mort": {
+      "ver": "1.0.3",
+      "uuid": "9b0d6ce3-64b4-4dc7-918a-a284bb026a8d",
+      "rawTextureUuid": "e5b4248f-c99f-44a9-8b45-83665371918d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 4,
+      "trimY": 5,
+      "width": 106,
+      "height": 109,
+      "rawWidth": 115,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "65b61a7e-e04b-4897-b878-407f8d96dfdd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "garcon-cape-bottes": {
+      "ver": "1.0.3",
+      "uuid": "04078012-a8a8-43e0-aa11-296f393234e8",
+      "rawTextureUuid": "65b61a7e-e04b-4897-b878-407f8d96dfdd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 2,
+      "trimX": 4,
+      "trimY": 3,
+      "width": 41,
+      "height": 90,
+      "rawWidth": 50,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

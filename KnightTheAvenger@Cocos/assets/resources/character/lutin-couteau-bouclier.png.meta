@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "de5f1ac8-fb0f-47d0-ab33-20d02b21eb2c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "lutin-couteau-bouclier": {
+      "ver": "1.0.3",
+      "uuid": "937c8ab0-de8e-4abb-adf0-a1cb785b51ee",
+      "rawTextureUuid": "de5f1ac8-fb0f-47d0-ab33-20d02b21eb2c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 42,
+      "height": 58,
+      "rawWidth": 42,
+      "rawHeight": 58,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "36b95297-54f1-4f60-9388-8b558d3b2b1b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "cheveux-bleu": {
+      "ver": "1.0.3",
+      "uuid": "3dafa8d1-df96-4db1-990a-7748e2e6de1a",
+      "rawTextureUuid": "36b95297-54f1-4f60-9388-8b558d3b2b1b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 39,
+      "height": 90,
+      "rawWidth": 41,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

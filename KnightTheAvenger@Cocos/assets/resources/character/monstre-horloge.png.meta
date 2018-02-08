@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bdbf3563-197a-4aa8-8355-31f5c0852a43",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "monstre-horloge": {
+      "ver": "1.0.3",
+      "uuid": "6c8b7c9f-93ca-41a4-b89c-b34f814765d1",
+      "rawTextureUuid": "bdbf3563-197a-4aa8-8355-31f5c0852a43",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 5.5,
+      "trimX": 4,
+      "trimY": 0,
+      "width": 77,
+      "height": 116,
+      "rawWidth": 89,
+      "rawHeight": 127,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9ef1ac94-c7d6-4852-adc6-e36427db246c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "chevalier-cheveux-bleu": {
+      "ver": "1.0.3",
+      "uuid": "b2829041-8e40-450f-9b3e-1c2d949445ab",
+      "rawTextureUuid": "9ef1ac94-c7d6-4852-adc6-e36427db246c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 43,
+      "height": 95,
+      "rawWidth": 45,
+      "rawHeight": 97,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
